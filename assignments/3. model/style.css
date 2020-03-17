@@ -1,0 +1,12 @@
+.flex{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+.list{
+    list-style-type: none;
+}
+img{
+    width: 50%;
+}
